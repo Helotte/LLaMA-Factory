@@ -8,6 +8,30 @@
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
+  "DISC-Law-SFT-test": {
+    "file_name": "DISC-Law-SFT-test.json",
+    "formatting": "alpaca"
+  },
+  "DISC-Law-SFT-train1": {
+    "file_name": "DISC-Law-SFT-train1.json",
+    "formatting": "alpaca"
+  },
+  "DISC-Law-SFT-train2": {
+    "file_name": "DISC-Law-SFT-train2.json",
+    "formatting": "alpaca"
+  },
+  "DISC-Law-SFT-train3": {
+    "file_name": "DISC-Law-SFT-train3.json",
+    "formatting": "alpaca"
+  },
+  "DISC-Law-SFT-train4": {
+    "file_name": "DISC-Law-SFT-train4.json",
+    "formatting": "alpaca"
+  },
+  "DISC-Law-SFT-train5": {
+    "file_name": "DISC-Law-SFT-train5.json",
+    "formatting": "alpaca"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",
