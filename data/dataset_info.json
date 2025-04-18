@@ -12,6 +12,10 @@
     "file_name": "DISC-Law-SFT-test.json",
     "formatting": "alpaca"
   },
+  "DISC-Law-SFT-test8": {
+    "file_name": "DISC-Law-SFT-test8.json",
+    "formatting": "alpaca"
+  },
   "DISC-Law-SFT-train1": {
     "file_name": "DISC-Law-SFT-train1.json",
     "formatting": "alpaca"
